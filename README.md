@@ -1,4 +1,13 @@
-# Olá, me chamo Nicoly ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Olá, me chamo Nicoly ! 
+
+👩‍💻 Uma programadora compartilhando sobre a minha jornada e aprendizado em tecnologia<br/>
+👩‍🎓 Formada em Analise e Desenvolvimento de Sistemas pelo Centro Universitário ENIAC, São Paulo<br/>
+📚 Atualmente com foco em Front-End<br/>
+
+[![Nicolyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolyz&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
